@@ -1,0 +1,225 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="turismoimpropio.org" resolutions="1x" timestamp="1525637582381">
+  <folder name="css">
+    <file name="site_global.css" crc="4075861810"/>
+    <file name="istmo.css" crc="3869309550" ref="istmo"/>
+    <file name="campos-de-golf-antigua.css" crc="105874771" ref="campos-de-golf-antigua"/>
+    <file name="peninsula-de-jandia.css" crc="467958470" ref="peninsula-de-jandia"/>
+    <file name="index.css" crc="4117221356" ref="index"/>
+    <file name="dunas-de-corralejo.css" crc="128354982" ref="dunas-de-corralejo"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
+    <file name="museutils.js" crc="340535759" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
+    <file name="museconfig.js" crc="310584261" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
+    <file name="require.js" crc="7928878" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
+  </folder>
+  <folder name="images">
+    <file name="captura de pantalla 2018-05-01 a las 120559.jpg" crc="4057016727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180807.jpg" crc="450326606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u167-4.png" crc="461035942" ref="index"/>
+    <file name="captura de pantalla 2018-05-01 a las 175258-crop-u187.png" crc="4215436377" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="captura de pantalla 2018-05-01 a las 180940 copia-crop-u290.jpg" crc="534059481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 221350-crop-u351.jpg" crc="3786433697" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 224847-crop-u364.jpg" crc="392081597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-02341 a las 134556-crop-u322.png" crc="4099242477" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018jjjj-05-01 a las 143057 copia-crop-u332.png" crc="3831789692" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 125122-crop-u177.png" crc="41642833" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 232249-crop-u374.jpg" crc="168032664" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 133011.jpg" crc="3855972099" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 142102.jpg" crc="270180444" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 143316.jpg" crc="4068571046" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 134731.jpg" crc="4065806055" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 145803.jpg" crc="496002802" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 132924.jpg" crc="104804175" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 144450.jpg" crc="3912880092" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 144804.jpg" crc="4002917454" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 133107.jpg" crc="4068723978" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 144417.jpg" crc="111072885" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 141626.jpg" crc="79193174" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 143057.jpg" crc="4164052872" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 144958.jpg" crc="60218371" seo="true" ref="istmo">
+      <caption webpage="istmo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 182754.jpg" crc="4103158404" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 183448.jpg" crc="171038006" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 184301.jpg" crc="4138425632" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 184338.png" crc="4269047182" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 183728.jpg" crc="3923727181" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 182612.jpg" crc="90576785" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 221350.jpg" crc="392571910" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 182658.jpg" crc="284205511" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 191311.jpg" crc="434132650" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 182017.jpg" crc="293818106" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 182855.jpg" crc="3925839391" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 183533.jpg" crc="3826307896" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 183001.jpg" crc="43696715" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-05 a las 183518.jpg" crc="394670792" seo="true" ref="peninsula-de-jandia">
+      <caption webpage="peninsula-de-jandia" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 124758.jpg" crc="3940276559" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 125302.jpg" crc="3881093969" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 123901.jpg" crc="92514710" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 124503.jpg" crc="3990604569" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 1331533.jpg" crc="4031386193" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 125122.png" crc="485184435" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-04 a las 180231.jpg" crc="172149538" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-04 a las 180144.jpg" crc="3866240264" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-04 a las 181819.jpg" crc="4125683695" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-04 a las 181806.jpg" crc="3960391857" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 124912.jpg" crc="4159058843" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 123741.jpg" crc="111810666" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 130216.jpg" crc="4073472923" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 174743.jpg" crc="4152078729" seo="true" ref="campos-de-golf-antigua">
+      <caption webpage="campos-de-golf-antigua" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180622.jpg" crc="4282573938" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180632.jpg" crc="204155567" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180143.jpg" crc="3977033662" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180408.jpg" crc="4016104976" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 181203.jpg" crc="4044791224" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 175746.jpg" crc="522957595" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 175258.png" crc="4269156959" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 175431.jpg" crc="4110400364" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 175234.jpg" crc="216740084" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 175320.jpg" crc="3963965066" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 181412.jpg" crc="317447016" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-06 a las 210910.jpg" crc="373728502" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180940.jpg" crc="357273470" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 175101.jpg" crc="3822590721" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+    <file name="captura de pantalla 2018-05-01 a las 180116.jpg" crc="3921788961" seo="true" ref="dunas-de-corralejo">
+      <caption webpage="dunas-de-corralejo" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4069524779" seo="true" mt="1525637058217" redirect="true"/>
+  <file name="istmo.html" crc="345877696" seo="true" mt="1525636368488" redirect="true"/>
+  <file name="peninsula-de-jandia.html" crc="107078104" seo="true" mt="1525636305387" redirect="true"/>
+  <file name="campos-de-golf-antigua.html" crc="295639317" seo="true" mt="1525636377523" redirect="true"/>
+  <file name="dunas-de-corralejo.html" crc="396964924" seo="true" mt="1525636341774" redirect="true"/>
+</manifest>
