@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="turismoimpropio.org" resolutions="1x" timestamp="1525637582381">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="turismoimpropio.org" resolutions="1x" timestamp="1528327363121">
   <folder name="css">
     <file name="site_global.css" crc="4075861810"/>
-    <file name="istmo.css" crc="3869309550" ref="istmo"/>
-    <file name="campos-de-golf-antigua.css" crc="105874771" ref="campos-de-golf-antigua"/>
     <file name="peninsula-de-jandia.css" crc="467958470" ref="peninsula-de-jandia"/>
-    <file name="index.css" crc="4117221356" ref="index"/>
+    <file name="index.css" crc="460614976" ref="index"/>
+    <file name="istmo.css" crc="3869309550" ref="istmo"/>
     <file name="dunas-de-corralejo.css" crc="128354982" ref="dunas-de-corralejo"/>
+    <file name="campos-de-golf-antigua.css" crc="105874771" ref="campos-de-golf-antigua"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:istmo:peninsula-de-jandia:campos-de-golf-antigua:dunas-de-corralejo"/>
@@ -217,7 +217,7 @@
       <caption webpage="dunas-de-corralejo" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4069524779" seo="true" mt="1525637058217" redirect="true"/>
+  <file name="index.html" crc="237982459" seo="true" mt="1528325541489" redirect="true"/>
   <file name="istmo.html" crc="345877696" seo="true" mt="1525636368488" redirect="true"/>
   <file name="peninsula-de-jandia.html" crc="107078104" seo="true" mt="1525636305387" redirect="true"/>
   <file name="campos-de-golf-antigua.html" crc="295639317" seo="true" mt="1525636377523" redirect="true"/>
